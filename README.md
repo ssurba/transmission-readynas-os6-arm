@@ -1,6 +1,6 @@
 # transmission-readynas-os6-arm
 
-This is a special build of Transmission Bittorrent client as an add-on for NETGEAR ReadyNAS storage systems based on ARM architecture - 100, 200 series and others.
+This is a special build of Transmission Bittorrent client for current line of NETGEAR ReadyNAS OS6 systems on ARM architecture - ReadyNAS 100, 200 series and others.  
 
 You can download it in the "Releases" section.
 
