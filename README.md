@@ -16,6 +16,6 @@ General notes:
 
 - Transmission network share will be created after installation. It provides access to downloaded files, Transmission configuration file (settings.json) and some other special files.
 
-- By default downloaded files are saved to /data/Transmission/Downloads. You may later change download path in Transmission configuration.
+- By default downloaded files are saved to /data/Transmission/downloads. You may later change download path in Transmission configuration.
 
 - Before installing this version please remove any other builds of Transmission (those not made by me). But you can keep previous version of my build, newer version should upgrade it.
