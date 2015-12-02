@@ -8,7 +8,7 @@ You can download the add-on in the Releases section: https://github.com/ssurba/t
 
 ##General notes:
 
-* Release notes for Transmission you may find on Transmission developers site: https://trac.transmissionbt.com/wiki/Changes.
+* You may find release notes for Transmission on Transmission developers site: https://trac.transmissionbt.com/wiki/Changes.
 
 * This package requires at least version 6.1.0 of the ReadyNAS OS. 
 
