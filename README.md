@@ -2,11 +2,11 @@
 
 This is a special build of Transmission Bittorrent client for current line of NETGEAR ReadyNAS OS6 systems on ARM architecture - ReadyNAS 100, 200 series and others.  
 
-You can download it in the "Releases" section.
+You can download the add-on in the Releases section: https://github.com/ssurba/transmission-readynas-os6-arm/releases
 
 General notes:
 
-- Release notes for Transmission you can read on Transmission developers site: https://trac.transmissionbt.com/wiki/Changes.
+- Release notes for Transmission you may find on Transmission developers site: https://trac.transmissionbt.com/wiki/Changes.
 
 - This package requires at least version 6.1.0 of the ReadyNAS OS. 
 
@@ -18,4 +18,10 @@ General notes:
 
 - By default downloaded files are saved to /data/Transmission/downloads. You may later change download path in Transmission configuration.
 
-- Before installing this version please remove any other builds of Transmission (those not made by me). But you can keep previous version of my build, newer version should upgrade it.
+**WARNING!** Before installing this version please **uninstall any other builds** of Transmission (versions not made by me) and **delete Transmission share** created by the other build. But you can keep previous version of my build and Transmission share created by it, newer version should use and upgrade them.
+
+# Version changes:
+
+## Version 0.01
+
+* Release for GitHub.
