@@ -16,7 +16,7 @@ You can download the add-on in the Releases section: https://github.com/ssurba/t
 
 * Your NAS should be connected to the Internet while installing this package because several additional components will be downloaded.
 
-* After starting the installation of the add-on there will be no indication of the process and the Transmission will appear in the list of installed applications after a delay. So relax and wait for 2-3 minutes (depending on your Internet connection speed). You will get notification and message in the log after the add-on is completely installed.
+* After starting the installation of the add-on there will be no indication of the process and Transmission will appear in the list of installed applications after a delay. So relax and wait for 2-3 minutes (depending on your Internet connection speed). You will get notification and message in the log after the add-on is completely installed.
 
 * Once the add-on gets fully installed you should be able to access web interface from your browser by the following URL: http://[ip_address_of_your_NAS]:9091.
 
