@@ -1,5 +1,5 @@
 Package: transmission
-Version: os6-arm-2.84-0.01
+Version: 2.84-0.01
 Architecture: armel
 Maintainer: Sergey Surba <sergey@surba.me>
 Depends: readynasos (>= 6.1.0), libc6 (>= 2.13), libevent-2.0-5 (>= 2.0.19-stable), libcurl3 (>= 7.31.0)

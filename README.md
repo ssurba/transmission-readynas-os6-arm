@@ -2,7 +2,7 @@
 
 Latest version is: os6-arm-2.84-0.01
 
-This is a special build of Transmission Bittorrent client for current line of NETGEAR ReadyNAS OS6 systems on ARM architecture - ReadyNAS 100, 200 series and others.  
+This is a special build of Transmission Bittorrent client for current line of NETGEAR ReadyNAS OS6 systems on ARM architecture - ReadyNAS 100, 200 series, 2120 and others.  
 
 You can download the add-on in the Releases section: https://github.com/ssurba/transmission-readynas-os6-arm/releases
 
@@ -14,7 +14,11 @@ You can download the add-on in the Releases section: https://github.com/ssurba/t
 
 * Only transmission-daemon, client tools and Web interface are included in this package.
 
-* After installing you should be able to access web interface from your browser by the following URL: http://[ip_address_of_your_NAS]:9091.
+* Your NAS should be connected to the Internet while installing this package because several additional components will be downloaded.
+
+* After starting the installation of the add-on there will be no indication of the process and the Transmission will appear in the list of installed applications after a delay. So relax and wait for 2-3 minutes (depending on your Internet connection speed). You will get notification and message in the log after the add-on is completely installed.
+
+* Once the add-on gets fully installed you should be able to access web interface from your browser by the following URL: http://[ip_address_of_your_NAS]:9091.
 
 * Transmission network share will be created after installation. It provides access to downloaded files, Transmission configuration file (settings.json) and some other special files.
 

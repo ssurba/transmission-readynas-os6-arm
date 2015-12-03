@@ -2,7 +2,7 @@
   <AppID>SSURBA_GENIEAPP_000001</AppID>
   <Name>Transmission</Name> <!-- Any desciptive name, upto 48 chars -->
   <Author>© Transmission Project, build by Sergey Surba</Author> <!-- Authors name. upto 48 chars -->
-  <Version>os6-arm-2.84-0.01</Version> <!-- Version -->
+  <Version>2.84-0.01</Version> <!-- Version -->
   <RequireReboot>0</RequireReboot> <!-- If non-zero, it indicate reboot is required. -->
   <ConfigURL /><!-- 'localhost' will be replaced by framework JS. -->
   <LaunchURL>http://localhost:9091</LaunchURL> <!-- 'localhost' will be replaced by framework JS. -->
