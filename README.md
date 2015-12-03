@@ -1,6 +1,6 @@
 # transmission-readynas-os6-arm
 
-Latest version is: os6-arm-2.84-0.01
+Latest version is: 2.84-0.01
 
 This is a special build of Transmission Bittorrent client for current line of NETGEAR ReadyNAS OS6 systems on ARM architecture - ReadyNAS 100, 200 series, 2120 and others.  
 
