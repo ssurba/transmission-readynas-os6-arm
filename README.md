@@ -22,6 +22,8 @@ You can download the add-on in the Releases section: https://github.com/ssurba/t
 
 * Transmission network share will be created after installation. It provides access to downloaded files, Transmission configuration file (settings.json) and some other special files.
 
+* Watch directory by default is located in Transmission share - \transmission\watch-dir. Put your .torrent files in it to start downloading.
+
 * By default downloaded files are saved to /data/Transmission/downloads. You may later change download path in Transmission configuration.
 
 **WARNING!** Before installing this version please **uninstall any other builds** of Transmission (versions not made by me) and **delete Transmission share** created by the other build. But you can keep previous version of my build and Transmission share created by it, newer version should use and upgrade them.
